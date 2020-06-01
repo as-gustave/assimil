@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+header{
+    background-color: black;
+    color: gold;
+    margin: 0;
+    padding: 1rem;
+    letter-spacing: 0.4rem;
+}
+
+article{
+    background-image: url('image/drapeau.svg'); 
+    margin-bottom: 1rem;
+    line-height: 2;
+}
+
+footer{
+    background-color: black;
+    color: gold;
+    padding: 1rem;
+    letter-spacing: 0.4rem;
+}
+
+h2{
+    background-color: burlywood;
+    text-shadow: 2px 2px 3px black;
+    color: steelblue;
+}
+
+h3{
+    color: antiquewhite;
+    border: dotted 2px black;
+    width: 10rem;
+    margin: auto;
+    margin-bottom: 1rem;
+    background-color: brown;
+}
+
+i{
+    color: brown;
+    size: 3rem;
+    font-size: x-large;
+    font-weight: bolder;
+
+}
