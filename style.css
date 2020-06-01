@@ -11,7 +11,7 @@ header{
 }
 
 article{
-    background-image: url('image/drapeau.svg'); 
+    background-color: slategrey;
     margin-bottom: 1rem;
     line-height: 2;
 }
